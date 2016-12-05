@@ -25,7 +25,7 @@ https://github.com/codepath/android_guides/wiki/Genymotion-2.0-Emulators-with-Go
 When gapps is installed, google+ may crash all the time.
 Just restart the device and disable goolge+
 
-Tested on:
+Tested Genymotion 2.8.0 devices:
 Samsung Galaxy S5 Android 4.4.4
 Samsung Galaxy S6 Android 5.0, 5.1, 6.0
 Google Nexus 6P   Android 7.0
